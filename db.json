@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "title": "vishal",
+      "content": "devloper",
+      "gender": "female",
+      "mobail": "96552184215",
+      "id": 1
+    },
+    {
+      "name": "sanjay",
+      "course": "gim",
+      "gender": "male",
+      "mobail": "5252451551515",
+      "id": 2
+    }
+  ]
+}
