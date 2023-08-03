@@ -1,17 +1,17 @@
 {
   "posts": [
     {
-      "title": "vishal",
-      "content": "devloper",
-      "gender": "female",
-      "mobail": "96552184215",
+      "name": "akshar",
+      "course": "gim",
+      "gender": "male",
+      "mobail": "95642055874",
       "id": 1
     },
     {
-      "name": "sanjay",
-      "course": "gim",
-      "gender": "male",
-      "mobail": "5252451551515",
+      "name": "akshar",
+      "course": "gl",
+      "gender": "xcv",
+      "mobail": "5241589658",
       "id": 2
     }
   ]
